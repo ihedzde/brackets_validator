@@ -1,0 +1,12 @@
+/Users/ivan/development/brackets_validator/BracketsValidator/bin/Debug/net5.0/BracketsValidator.deps.json
+/Users/ivan/development/brackets_validator/BracketsValidator/bin/Debug/net5.0/BracketsValidator.dll
+/Users/ivan/development/brackets_validator/BracketsValidator/bin/Debug/net5.0/ref/BracketsValidator.dll
+/Users/ivan/development/brackets_validator/BracketsValidator/bin/Debug/net5.0/BracketsValidator.pdb
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.csprojAssemblyReference.cache
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.AssemblyInfoInputs.cache
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.AssemblyInfo.cs
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.csproj.CoreCompileInputs.cache
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.dll
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/ref/BracketsValidator.dll
+/Users/ivan/development/brackets_validator/BracketsValidator/obj/Debug/net5.0/BracketsValidator.pdb
